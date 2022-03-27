@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Devoir 3</string>
+    <string name="button2">Vrai</string>
+    <string name="question2">Toronto est la capitale du Canada</string>
+    <string name="question3">La Nouvelle-Angleterre est située en Angleterre</string>
+    <string name="question4">Ce programme fonctionne-t-il ?</string>
+    <string name="button3">Commencer le Quiz</string>
+    <string name="averageOption">Obtenir la moyenne</string>
+    <string name="numberOfQuestions">Modifier le nombre de questions</string>
+    <string name="deleteSaves">Supprimer tous les résultats enregistrés</string>
+    <string name="button">Faux</string>
+    <string name="changeNumTitle">Modification du nombre de questions</string>
+    <string name="changeNumMessage">Combien de questions voulez-vous pour le quiz ?</string>
+    <string name="openResultsError">Vous n\'avez enregistré aucun résultat !</string>
+    <string name="openResultsMessage">Vos bonnes réponses/Nombre total de questions =</string>
+    <string name="completionTitle">Félicitations !</string>
+    <string name="completionMessagePart1">Vous avez répondu correctement à</string>
+    <string name="completionMessagePart2">" questions sur "</string>
+    <string name="completionMessagePart3">" questions"</string>
+    <string name="wrong">Tort</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">enregistrer</string>
+    <string name="okay">OK</string>
+    <string name="right">Correct</string>
+    <string name="startQuizText">Cliquez sur le bouton \"commencer le quiz\" pour commencer</string>
+    <string name="trueFalseError">Veuillez d\'abord commencer le quiz !</string>
+    <string name="button3Restart">Relancer le quiz</string>
+    <string name="question7">Le thème de couleur principal de l\'application est le jaune</string>
+    <string name="question6">Il manque une fonctionnalité/fonction à cette application</string>
+    <string name="question5">Il y a 50 états aux USA</string>
+</resources>

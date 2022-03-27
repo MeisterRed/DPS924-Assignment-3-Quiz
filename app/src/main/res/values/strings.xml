@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="startQuizText">Click the "Start Quiz" button to begin</string>
+    <string name="trueFalseError">Please start the quiz first!</string>
+    <string name="button">False</string>
+    <string name="button2">True</string>
+    <string name="button3">Start Quiz</string>
+    <string name="button3Restart">Restart Quiz</string>
+    <string name="question1" translatable="false">1 + 1 = 2</string>
+    <string name="question2">Toronto is the capital of Canada</string>
+    <string name="question3">New England is located in England</string>
+    <string name="question4">This app works</string>
+    <string name="question5">There are 50 states in the USA</string>
+    <string name="question6">This app is missing a feature/function</string>
+    <string name="question7">The main color theme of the app is yellow</string>
+    <string name="averageOption">Get The Average</string>
+    <string name="numberOfQuestions">Change number of Questions</string>
+    <string name="deleteSaves">Delete all saved results</string>
+    <string name="changeNumTitle">Changing number of questions</string>
+    <string name="changeNumMessage">How many questions do you want for the quiz?</string>
+    <string name="openResultsError">You have no results saved!</string>
+    <string name="openResultsMessage">Your Correct answers/Total number of questions = </string>
+    <string name="completionTitle">Congratulations!</string>
+    <string name="completionMessagePart1">You have answered </string>
+    <string name="completionMessagePart2"> questions correctly out of </string>
+    <string name="completionMessagePart3"> questions</string>
+    <string name="okay">OK</string>
+    <string name="right">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+
+</resources>
